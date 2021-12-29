@@ -4,4 +4,4 @@ spring:
       client:
         registration:
           keycloak:
-            client-secret: '{cipher}f18eb392c32990ef39b8c96c446d66db529e5203af61a632ffc9c929e8f8f1622bac78e2c4d63196e231ab005f37dec9%'
+            client-secret: '{cipher}6efbcba179a09880e212a9dbc39b0f5fc3477a4452c8d70b7b31ae03a18ef6f685d4bfa497d00e6133f5db0bad04c9eb'
